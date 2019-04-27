@@ -6,8 +6,8 @@ def assign_variable(value)
   bill = value
 end
 
-def argue
-  return argue
+def argue(argument)
+  return argument
 end
 
 def greeting(greeting, name)
@@ -22,6 +22,6 @@ def last_evaluated_value
   return "expert"
 end
 
-def pizza_party
-  return "cheese"
+def pizza_party(cheese)
+  return cheese
 end
